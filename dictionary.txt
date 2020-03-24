@@ -1,8 +1,8 @@
-Kopfkino           Head cinema
+Kopfkino           Vividly imaginated scene
 Schnapsidee        crazy idea
 Flughafen          Airport
 Berlin             Berlin
-Bratwurst          big hotdog
+Bratwurst          pork sausage
 Hauptstrasse       Main Road
 Brot               Loaf
 Gauss              unit of magnetic flux
@@ -10,10 +10,10 @@ Klimaanlage        air conditioning
 Rammstein          Ramming stone
 Musik              Music
 BMW                BMW
-Biergarten         Beer Garden
+Biergarten         Beer Garden (outdoor area where beer/food are served)
 Ratskeller         pub or bar in basement of a building
 Dirndel            feminine dress
 Lederhose          Leather pants
-Luftschloss        castle in the air
+Luftschloss        fantasy or unrealistic dream
 wettbewerbsfaehig  competitive
 Schneewittchen     snow white
